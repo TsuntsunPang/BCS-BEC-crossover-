@@ -28,4 +28,7 @@
 ## The BCS–BEC crossover: From ultra-cold Fermi gases to nuclear systems------Giancarlo Calvanese Strinati, Pierbiagio Pieri a b, Gerd Röpke c, Peter Schuck d e, Michael Urban
 ##   https://www.sciencedirect.com/science/article/pii/S0370157318300267?via%3Dihub
 
-## Quantum liquids: Bose condensation and Cooper pairing in condensed-matter systems-----Leggett 
+## Book--- Quantum liquids: Bose condensation and Cooper pairing in condensed-matter systems-----Leggett 
+## https://z-library.sk/book/453937/be5838/quantum-liquids-bose-condensation-and-cooper-pairing-in-condensedmatter-systems.html
+## Book--- Condensed Matter Field Theory ------Altland and Simons 
+## https://z-library.sk/book/1020227/7005a0/condensed-matter-field-theory.html
