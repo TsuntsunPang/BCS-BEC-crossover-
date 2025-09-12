@@ -32,3 +32,5 @@
 ## https://z-library.sk/book/453937/be5838/quantum-liquids-bose-condensation-and-cooper-pairing-in-condensedmatter-systems.html
 ## Book--- Condensed Matter Field Theory ------Altland and Simons 
 ## https://z-library.sk/book/1020227/7005a0/condensed-matter-field-theory.html
+## Theory of ultracold atomic Fermi gases--- Stefano Giorgini, Lev P. Pitaevskii, and Sandro Stringari
+## https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.80.1215
