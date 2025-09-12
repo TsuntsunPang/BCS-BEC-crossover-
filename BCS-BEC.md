@@ -24,3 +24,6 @@
 
 ## Crossover from Bardeen-Cooper-Schrieffer to Bose-Einstein Condensation and the Unitary Fermi Gas---- Mohit Randeria1 and Edward Taylor
 ##  https://sci-hub.se/https://www.annualreviews.org/content/journals/10.1146/annurev-conmatphys-031113-133829
+
+## The BCS–BEC crossover: From ultra-cold Fermi gases to nuclear systems------Giancarlo Calvanese Strinati, Pierbiagio Pieri a b, Gerd Röpke c, Peter Schuck d e, Michael Urban
+##   https://www.sciencedirect.com/science/article/pii/S0370157318300267?via%3Dihub
